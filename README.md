@@ -1,4 +1,4 @@
-# IMDB-movie-analysis
+# Análisis de Datos de Películas de Hollywood
 
 ## Descripción del Proyecto
 
